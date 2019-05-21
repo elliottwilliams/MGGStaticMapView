@@ -8,14 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		BB9211EC1AB4FA5F0089E094 /* MGGStaticMapView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB9211E01AB4FA5F0089E094 /* MGGStaticMapView.framework */; };
-		BB92120E1AB4FCBB0089E094 /* MGGStaticMapView.h in Headers */ = {isa = PBXBuildFile; fileRef = BB9212081AB4FCBB0089E094 /* MGGStaticMapView.h */; };
+		BB92120E1AB4FCBB0089E094 /* MGGStaticMapView.h in Headers */ = {isa = PBXBuildFile; fileRef = BB9212081AB4FCBB0089E094 /* MGGStaticMapView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BB92120F1AB4FCBB0089E094 /* MGGStaticMapView.m in Sources */ = {isa = PBXBuildFile; fileRef = BB9212091AB4FCBB0089E094 /* MGGStaticMapView.m */; };
-		BB9212101AB4FCBB0089E094 /* MGGPulsingBlueDot.h in Headers */ = {isa = PBXBuildFile; fileRef = BB92120A1AB4FCBB0089E094 /* MGGPulsingBlueDot.h */; };
+		BB9212101AB4FCBB0089E094 /* MGGPulsingBlueDot.h in Headers */ = {isa = PBXBuildFile; fileRef = BB92120A1AB4FCBB0089E094 /* MGGPulsingBlueDot.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BB9212111AB4FCBB0089E094 /* MGGPulsingBlueDot.m in Sources */ = {isa = PBXBuildFile; fileRef = BB92120B1AB4FCBB0089E094 /* MGGPulsingBlueDot.m */; };
 		BB92121B1AB4FDDA0089E094 /* MGGStaticMapViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BB9212141AB4FCC90089E094 /* MGGStaticMapViewTests.m */; };
-		BBB514321AFD406300C5E332 /* MGGMutableUserLocation.h in Headers */ = {isa = PBXBuildFile; fileRef = BBB514301AFD406300C5E332 /* MGGMutableUserLocation.h */; };
+		BBB514321AFD406300C5E332 /* MGGMutableUserLocation.h in Headers */ = {isa = PBXBuildFile; fileRef = BBB514301AFD406300C5E332 /* MGGMutableUserLocation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BBB514331AFD406300C5E332 /* MGGMutableUserLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = BBB514311AFD406300C5E332 /* MGGMutableUserLocation.m */; };
-		BBC482041B012002004234A1 /* MGGMapUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = BBC482021B012002004234A1 /* MGGMapUtils.h */; };
+		BBC482041B012002004234A1 /* MGGMapUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = BBC482021B012002004234A1 /* MGGMapUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BBC482051B012002004234A1 /* MGGMapUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = BBC482031B012002004234A1 /* MGGMapUtils.m */; };
 /* End PBXBuildFile section */
 
